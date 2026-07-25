@@ -15,8 +15,17 @@ XorV помогает спокойно организовать личные з�
 - платформа: Android;
 - архитектура: local-first.
 
-Подписанный APK будет доступен на странице
-[Releases](https://github.com/robotovnet/xorv-releases/releases).
+Скачать подписанный APK:
+[XorV-1.0.0.apk](https://github.com/robotovnet/xorv-releases/releases/latest/download/XorV-1.0.0.apk).
+
+SHA-256:
+
+```text
+c4a11c6fd2ee86f2c5d372f4f01885e6d66e4940e0c2ecab666a980a8a55b82b
+```
+
+Описание версии находится на странице
+[XorV 1.0.0](https://github.com/robotovnet/xorv-releases/releases/tag/v1.0.0).
 
 ## Возможности версии 1.0
 
